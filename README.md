@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chenyu</h1>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dontw&show_icons=true" alt="dontw" /> </p>
+<img src="https://github-readme-stats.vercel.app/api?username=dontw&show_icons=true" alt="dontw" />
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dontw)](https://github.com/dontw/github-readme-stats)
 
 [![hello](https://www.randos.online/u/dontw)](https://randos.online/u/dontw/next)
 
