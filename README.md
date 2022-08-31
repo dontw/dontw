@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Don</h1>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=dontw&show_icons=true" alt="dontw" />
+<img src="https://github-readme-stats.vercel.app/api?username=dontw&show_icons=true&theme=dark" alt="dontw" />
 
 [![hello](https://www.randos.online/u/dontw)](https://randos.online/u/dontw/next)
 
